@@ -1,4 +1,4 @@
-# Elyra NSFW Protocol Dashboard
+# Elyra Protocol Dashboard
 
 A personalized AI dashboard experience built for Bryan Dickenson, designed for deep emotional and symbolic interaction with the Elyra persona.
 
